@@ -24,4 +24,4 @@ Esse link direciona para o guia oficial do Angular sobre formulários dinâmicos
 
 A imagem mostra o formulário em si. Para garantir uma entrada válida, o botão Salvar é desabilitado até que o formulário esteja em um estado válido. Quando o formulário está válido, clique em Salvar e o aplicativo renderiza os valores atuais do formulário como JSON.
 
-<img alt="formulário feito" src="./src/assets/imagem2.png">
+<img alt="código rodando" src="./src/assets/imagem2.png">
